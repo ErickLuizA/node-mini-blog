@@ -1,6 +1,4 @@
-# Project Title
-
-A blog website project
+# Blog Project
 
 ## Getting Started
 
@@ -11,7 +9,7 @@ A blog website project
 
 ### Prerequisites
 
-node.js
+1. Node.js
 ```
 
 
