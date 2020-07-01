@@ -4,11 +4,11 @@
   <body>
     <%- include("./partials/nav.ejs") %>
     <div class="blog">
-      <h3><%= blog.title %></h3>
-      <p><%= blog.body %></p>
-      <button class="delete" data-id="<%= blog.id %>">
+      <h3 class="mx-5"><%= blog.title %></h3>
+      <p class="mx-5"><%= blog.body %></p>
+      <a class="delete" data-id="<%= blog.id %>">
         <img src="/trashcan.svg" alt="delete icon">
-      </button>
+      </a>
     </div>
 
     <script>
