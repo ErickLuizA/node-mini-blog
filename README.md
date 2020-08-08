@@ -35,6 +35,9 @@ A mini-blog made with nodejs
 ## :building_construction: Technologies
 - [Node.js](https://nodejs.org/en/)
   - [Express](https://expressjs.com)
+  - [Ejs](https://ejs.co/)
+  - [sqlite3](https://www.sqlite.org/index.html)
+  - [nodemon](https://www.npmjs.com/package/nodemon)
 
 ## :rocket: Getting Started
 
