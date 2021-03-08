@@ -71,8 +71,7 @@ This project is under the MIT license. See the file [LICENSE](LICENSE) for more 
 
 ---
 
-Build with 💙 By [Erick](https://erickluiz.netlify.app/)
-
+Build with 💙 By [Erick](https://www.linkedin.com/in/erick-luiz-47151a1a4/)
 
 
 
