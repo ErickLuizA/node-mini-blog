@@ -1,7 +1,7 @@
-<h1 align="center"> Mini-blog </h1>
+<h1 align="center"> node-mini-blog </h1>
 
 <p align="center">
-  <a href="https://github.com/ErickLuizA/mini-blog/graphs/commit-activity" alt="Maintenance">
+  <a href="https://github.com/ErickLuizA/node-mini-blog/graphs/commit-activity" alt="Maintenance">
     <img src="https://img.shields.io/badge/Maintained%3F-yes-1EAE72.svg" />
   </a>
 
@@ -11,14 +11,13 @@
 
 <br/>
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickLuizA/mini-blog?color=blue">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickLuizA/node-mini-blog?color=blue">
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ErickLuizA/mini-blog">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ErickLuizA/node-mini-blog">
 
-<a href="https://github.com/ErickLuizA/mini-blog/stargazers">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ErickLuizA/mini-blog?style=social">
+<a href="https://github.com/ErickLuizA/node-mini-blog/stargazers">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ErickLuizA/node-mini-blog?style=social">
 </a>
-
 
 <p align="center">
   <a href="#clipboard-description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -29,11 +28,11 @@
 </p>
 
 ## :clipboard: Description
-A mini-blog made with nodejs
 
-
+A node-mini-blog made with nodejs
 
 ## :building_construction: Technologies
+
 - [Node.js](https://nodejs.org/en/)
   - [Express](https://expressjs.com)
   - [Ejs](https://ejs.co/)
@@ -45,14 +44,14 @@ A mini-blog made with nodejs
 ## 1. Download the repository
 
 ```shell
- $ git clone https://github.com/ErickLuizA/mini-blog.git
+ $ git clone https://github.com/ErickLuizA/node-mini-blog.git
 ```
 
 ## 2. Installation
 
-``` shell
+```shell
 # Go into the repository
-$ cd mini-blog
+$ cd node-mini-blog
 
 # Install dependencies
 $ npm install
@@ -80,7 +79,3 @@ This project is under the MIT license. See the file [LICENSE](LICENSE) for more 
 ---
 
 Build with 💙 By [Erick](https://www.linkedin.com/in/erick-luiz-47151a1a4/)
-
-
-
-
